@@ -114,6 +114,6 @@ The application will launch and open automatically in your browser:
    - Display duplicate rows, missing names/emails, negative ages, and outliers in the **Detected Errors** textbox.
    - Request suggestions from OpenRouter and print the clean-up plan and Python script in the **AI Suggestions** textbox.
   
-## 5. Runnig App Link
+### 5. Runnig App Link
 
-           https://dataqualityagent-dnee7zzsjqjutjtfignsoq.streamlit.app/
+  [Click Here to fill Open the Completed App](https://dataqualityagent-dnee7zzsjqjutjtfignsoq.streamlit.app/)
